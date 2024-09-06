@@ -14,4 +14,8 @@ Third-Party Libraries: Includes JSON and Commons IO for data management and Jasy
 
 <h2>How to Run</h2>
 <p>1.Clone this repository:</p>
-&nbsp&nbsp
+&nbsp&nbsp https://github.com/DulajHansana/QuiziFY-v0.1.git<br><br>
+<p>2.Compile and run the Java files using:</p>
+&nbsp&nbspjavac Main.java<br>
+&nbsp&nbspjava Main<br><br>
+<p>3.Follow the command-line prompts to start the quiz!</p>
