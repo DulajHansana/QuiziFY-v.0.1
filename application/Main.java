@@ -50,7 +50,12 @@ public class Main {
 				}
 			}
 		}
-	}
+	}//This is a comment
+
+	//this is a comment also
+	/*this 
+	 is multiline commnet
+	 */
 	
 	public static void openQuiz () {
 		print("Use following quizzes", true);
